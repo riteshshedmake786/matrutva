@@ -1,0 +1,5 @@
+deployment :
+      tasks :
+
+      -export DEPLOYPATH=/home/classofstudents/matrutva.yourphysicsclass.com/
+      -bin/cp * $DEPLOYPATH
